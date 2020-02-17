@@ -155,6 +155,7 @@
 *://*.dropbox.com
 
 *://*.gmail.com
+*://chrome.google.com*
 [regexp]
 
 #END
